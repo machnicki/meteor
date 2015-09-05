@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/.meteorite/packages/iron-router/EventedMind/iron-router/05415a8891ea87a00fb1e2388585f2ca5a38e0da/examples/basic/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/.meteorite/packages/iron-router/EventedMind/iron-router/05415a8891ea87a00fb1e2388585f2ca5a38e0da/examples/hooks/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/.meteorite/packages/iron-router/EventedMind/iron-router/05415a8891ea87a00fb1e2388585f2ca5a38e0da/examples/waiton/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/.meteorite/source/EventedMind/iron-router/examples/basic/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/.meteorite/source/EventedMind/iron-router/examples/hooks/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/.meteorite/source/EventedMind/iron-router/examples/waiton/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/blaze-layout/examples/simple/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/iron-dynamic-template/examples/basic/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/iron-dynamic-template/examples/javascript/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/iron-layout/examples/javascript/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/iron-layout/examples/templates/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/iron-router/examples/basic/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/iron-router/examples/hooks/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/iron-router/examples/waiton/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/spin/.meteor/local" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

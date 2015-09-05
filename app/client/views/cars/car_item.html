@@ -1,0 +1,15 @@
+<template name="carItem">
+    <div class="post">
+        <div class="post-content">
+            <h3>
+                <a href="{{url}}">{{name}}</a>
+                <span>{{producer}}, {{domain}}</span>
+            </h3>
+            <p>
+                added by {{author}}
+                {{#if ownCar}}<a href="{{pathFor 'carEdit'}}">Edit</a>{{/if}}
+            </p>
+        </div>
+        <a href="{{pathFor 'carPage'}}" class="discuss btn">More</a>
+    </div>
+</template>
